@@ -1,4 +1,4 @@
-# 🍽️ Planora – PArty Food Planner 
+# 🍽️ Planora – Party Food Planner 
 
 **Planora** is a collection of AI-driven food applications that help users plan meals, reduce food waste, and get smart grocery suggestions.  
 This repository showcases my work across different platforms: **iOS (SwiftUI)**, **Python (Flask/FastAPI + Gemini AI)**, **PHP backend**, and **SQL database design**.  
